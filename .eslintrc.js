@@ -47,6 +47,7 @@ module.exports = {
     'vue/attribute-hyphenation': 0,
     'vue/v-on-event-hyphenation': 0,
     'import/newline-after-import': 1,
-    'vue/comment-directive': 0
+    'vue/comment-directive': 0,
+    "no-console": 1,
   }
 }
